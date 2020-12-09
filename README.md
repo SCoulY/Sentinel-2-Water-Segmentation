@@ -20,6 +20,6 @@ The public dataset for water segmentation using Sentinel-2 multi-spectral satall
 ##
 The dataset included two batches of data of same area (Chengdu City) which are collected on April 2018 and December 2018 respectively. The pixelwise label is annotated based on The April's data.
 ###
-rgb_nir.tif($$20982 \times 20982$$ pixels) contains 4 bands (r,g,b,nir) raw raster pixel information and is of 10m pixel resolution.
+rgb_nir.tif(20982 x 20982 x 4 pixels) contains 4 bands (r,g,b,nir) raw raster pixel information and is of 10m pixel resolution.
 ###
-swir.tif($10491 \times 10491$ pixels) contains swir band raw raster pixel information and is in 20m pixel resolution.
+swir.tif(10491 x 10491 x 1 pixels) contains swir band raw raster pixel information and is in 20m pixel resolution.
