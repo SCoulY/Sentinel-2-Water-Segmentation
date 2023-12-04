@@ -1,6 +1,6 @@
 # Sentinel-2-Water-Segmentation
 The public dataset for water segmentation using Sentinel-2 multi-spectral satallite imagery
-##The dataset can be accessed through [Google Drive](https://drive.google.com/file/d/1tdLH5p2_jY9Iy0OIGg7kpFqJJtnX73DT/view?usp=sharing) or [Baidu Net Disk](https://pan.baidu.com/s/1Iy2iiWr3MkITSsfjPp30ww) for Chinese users with code:t6uy
+##The dataset can be accessed through [Google Drive](https://drive.google.com/file/d/1N1NahlAvH3W00dDMt4CJP7c4TCyhFUL_/view?usp=sharing) or [Baidu Net Disk](https://pan.baidu.com/s/1Iy2iiWr3MkITSsfjPp30ww) for Chinese users with code:t6uy
 
 ## The dataset is organised as follows:
   ~~~
